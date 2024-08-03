@@ -18,7 +18,7 @@ The Image Gallery project demonstrates the use of CSS Grid for layout and the tr
 - Dynamic Rendering: Uses the map function to dynamically generate gallery items from an array of objects.
 
 ## How to View
-You can explore the image gallery by visiting 
+You can explore the image gallery by visiting https://image-gallery-react-teal-kappa.vercel.app/
 
 ## Contributing
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback and contributions are highly valued!
